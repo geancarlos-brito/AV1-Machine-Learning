@@ -9,9 +9,9 @@ Explorar diferentes abordagens de aprendizado de máquina para resolver problema
 ## 👥 Equipe
 
 - Gean Carlos
-- Liedson
+- Liedson Araujo
 - Luiz Henrique
-- Erick
+- Erick William
 
 ## 📚 Problemas propostos
 
